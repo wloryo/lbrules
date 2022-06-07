@@ -31,6 +31,7 @@ You will received an error message when you try to create a new rule with pool1.
 
 <img src="/Outboundruleerror.png" width="90%">
 
+## Work around
 
 If you would like to have more then 300 rules per NIC, you need to add a new pool and then you will have new VMs in that pool which can support more 300 new rule for that pool.
 
