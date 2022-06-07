@@ -36,6 +36,6 @@ If you would like to have more then 300 rules per NIC, you need to add a new poo
 
 <img src="/pool1andpool2.png" width="90%">
 
-And if we look at the public IP level, you have have 1 public IP which has more then 300 rules  associated. So add new public IP won't help you to increase the total rules which can be installed. 
+And if we look at the public IP level, you can have 1 public IP which has more then 300 rules  associated. So add new public IP won't help you to increase the total rules which can be installed. 
 
 <img src="/publicip.png" width="90%">
